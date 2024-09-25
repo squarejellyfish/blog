@@ -1,0 +1,12 @@
+[
+    {
+       "name":"python-minesweeper-solver",
+       "url":"https://github.com/squarejellyfish/python-minesweeper-solver",
+       "desc":"Fully automatic minesweeper solver written in Python."
+    },
+    {
+       "name":"donut.py",
+       "url":"https://github.com/squarejellyfish/donut.py",
+       "desc":"donut.c in Python."
+    }
+]
