@@ -4,8 +4,8 @@
 
 # Site
 title: squarejellyfish's blog
-subtitle: ''
-description: "子虛烏有八德路毒王\nOne must imagine Sisyphus happy."
+subtitle: 'One must imagine Sisyphus happy.'
+description: "子虛烏有八德路毒王\nNTU CSIE"
 keywords: programming
 author: squarejellyfish
 language: en
@@ -96,7 +96,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+# theme: cactus
+# theme: next
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
