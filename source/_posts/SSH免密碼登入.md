@@ -2,6 +2,9 @@
 title: SSH免密碼登入
 date: 2024-09-14 21:09:44
 tags:
+- ssh
+- shell
+cover: /images/SSH.png
 ---
 
 1. ssh-keygen
